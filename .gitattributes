@@ -1,1 +1,4 @@
-index.html -diff
+* text=auto
+*.jpg binary
+*.webp binary
+*.mp4 binary
